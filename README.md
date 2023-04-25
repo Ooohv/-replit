@@ -6,7 +6,7 @@
 bash <(curl -s https://github.com/Ooohv/-replit/blob/main/run.sh)
 ```
 ```
-wget -O main.sh https://github.com/sxbai/alist-on-replit/raw/master/main.sh
+wget -O main.sh https://github.com/Ooohv/-replit/blob/main/main.sh
 ```
 ```
 wget -O replit.nix https://github.com/Ooohv/-replit/blob/main/replit.nix
