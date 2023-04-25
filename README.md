@@ -1,7 +1,7 @@
 #使用说明
 ```
-wget https://github.com/Ooohv/-replit/blob/main/replit.zip
+bash <(curl -s https://github.com/Ooohv/-replit/blob/main/run.sh)
 ```
 ```
-tar -zxvf replit.zip
+
 ```
