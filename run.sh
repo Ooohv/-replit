@@ -1,7 +1,7 @@
 echo "一键搭建脚本"
 nix-env -iA nixpkgs.wget
 cd build
-wget -O .replit 
+wget -O .replit https://github.com/Ooohv/-replit/blob/main/.replit
 wget -O replit.nix https://github.com/Ooohv/-replit/blob/main/replit.nix
 cd ..
 wget -O main.sh https://github.com/sxbai/alist-on-replit/raw/master/main.sh
